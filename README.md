@@ -2,6 +2,6 @@
 
 This plugin is provided for UniversalPay merchants using Magento 2.x.
 
-Got a question? Visit https://www.universalpay.es/contacto/ for assistance.
+Got a question? Visit https://www.universalpay.es/contacto/ or email integraciones_es@evopayments.com for support.
 
 For instructions on how to install the plugin on Magento please go to our Wiki [here](https://github.com/UniversalPay/Magento2/wiki/Installation-of-UniversalPay-plugin-for-Magento-2.x).
